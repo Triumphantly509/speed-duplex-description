@@ -35,3 +35,9 @@ PC1
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b5832a37-10e3-4b63-afd4-7cd74178f4d7" />
 
+PC2
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9c39ecea-7824-49aa-b91e-75fa618d8176" />
+
+
+
