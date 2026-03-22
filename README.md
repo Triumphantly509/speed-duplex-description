@@ -39,5 +39,9 @@ PC2
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9c39ecea-7824-49aa-b91e-75fa618d8176" />
 
+## switch configuration
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/94776cc7-169f-46d4-8f3a-c01ab1bc3dae" />
+
+
 
 
