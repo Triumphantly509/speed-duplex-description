@@ -1,4 +1,4 @@
-# Configuring switch interfaces, Speed, duplex, description
+# Configuring switch interfaces, speed, duplex, description
 
 ## Objective
 The objective of this lab is to configure and manage switch interfaces on a Layer 2 switch. This includes enabling interfaces, configuring interface descriptions, manually setting interface speed and duplex mode, and verifying the configuration using Cisco IOS commands. These configurations help ensure proper link performance and provide clear documentation of switch ports.
