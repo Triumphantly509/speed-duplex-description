@@ -25,3 +25,4 @@ The objective of this lab is to configure and manage switch interfaces on a Laye
 ## Commands Practiced
 
 ## Lab Topology
+<img width="600 alt="image" src="https://github.com/user-attachments/assets/21bea8df-306f-4529-bb46-8e69fc853340" />
