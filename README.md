@@ -28,8 +28,10 @@ The objective of this lab is to configure and manage switch interfaces on a Laye
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ccb84175-9275-4b7b-81f5-5d16ddd99261" />
 
 PC0
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9a467515-6d2b-4437-b8e8-1e07a0badc86" />
 
 PC1
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b5832a37-10e3-4b63-afd4-7cd74178f4d7" />
 
