@@ -34,6 +34,13 @@ The objective of this lab is to configure and manage switch interfaces on a Laye
 ## Check the speed and duplex configuration on FastEthernet0/1
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/62726f21-287f-44b4-969f-a7f13fab6808" />
 
+## Create a Duplex Mismatch
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c86e05c6-5531-4f92-8e4c-41bfcdd72ee6" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e1fe85b7-6e1b-430f-8b7f-ede9aba18f6a" />
+
+
+
 
 
 
