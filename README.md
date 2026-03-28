@@ -1,29 +1,33 @@
 # Configuring switch interfaces, speed, duplex, description
 
 ## Objective
-The objective of this lab is to configure and manage switch interfaces on a Layer 2 switch. This includes enabling interfaces, configuring interface descriptions, manually setting interface speed and duplex mode, and verifying the configuration using Cisco IOS commands. These configurations help ensure proper link performance and provide clear documentation of switch ports.
+The objective of this lab is to practice configuring and verifying speed and duplex settings on a switch interface, simulate a duplex mismatch, observe its impact on network connectivity, and restore proper communication by correcting the interface configuration.
 
 ## Skills learned
-- Configuring switch interfaces
-
-- Enabling switch ports using no shutdown
-
-- Configuring interface descriptions for documentation
-
-- Manually configuring speed and duplex settings
-
-- Navigating the Cisco IOS CLI
-
-- Verifying interface configurations
-
-- Understanding how duplex mismatches affect network performance
-
-- Performing basic interface management and troubleshooting
+- Switch interface configuration (speed and duplex)
+- Network connectivity testing using ping
+- Troubleshooting duplex mismatch issues
+- Using Cisco IOS verification commands (show interfaces, show interfaces status)
+- Understanding Ethernet communication behavior in different duplex modes
   
 ## Tools used
+- Cisco Packet Tracer
+- Cisco 2960 Switch
+- PC Hosts
+- Cisco IOS CLI
 
 ## Commands Practiced
-
+- enable
+- configure terminal
+- interface FastEthernet0/1
+- speed 100
+- duplex half
+- speed auto
+- uplex auto
+- no shutdown
+- show interfaces FastEthernet0/1
+- show interfaces stat
+  
 ## Lab Topology
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9ec3cb07-7942-4b82-a0e1-ac71e6471b0d" />
 
