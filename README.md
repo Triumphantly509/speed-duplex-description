@@ -79,6 +79,11 @@ A duplex mismatch occurs when two connected devices operate in different duplex 
 ### Test with ping
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/46e6a92c-1fc1-4dbd-a6e6-d696a102ebfd" />
 
+### status with description
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/f5286743-8059-4b99-8383-d2a16b0e4f99" />
+
+
+
 
 
 
