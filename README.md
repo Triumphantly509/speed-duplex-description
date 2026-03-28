@@ -28,8 +28,12 @@ The objective of this lab is to configure and manage switch interfaces on a Laye
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9ec3cb07-7942-4b82-a0e1-ac71e6471b0d" />
 
 
-## switch configuration
+## Check speed and duplex on the switch
 <img width="600" height="271" alt="image" src="https://github.com/user-attachments/assets/97178409-9434-44b0-bcdb-ebc98916b4fc" />
+
+## Check the speed and duplex configuration on FastEthernet0/1
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/62726f21-287f-44b4-969f-a7f13fab6808" />
+
 
 
 
