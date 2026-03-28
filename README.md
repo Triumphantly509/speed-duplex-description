@@ -60,7 +60,20 @@ A duplex mismatch occurs when two connected devices operate in different duplex 
 ### On PC0 side
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/617ea6d0-f21d-4cf1-a442-1bde935a561f" />
 
+### Test with ping
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d658cea7-d166-4478-ae36-200b0318f82d" />
+
+
 ### Option 2: Set both sides manually to the same value.
+
+### On the switch side
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/cfbc34b8-6c3f-43c6-90c0-a6f6d88f71b4" />
+
+### On PC0 side
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f929d580-c761-414c-b65d-1cd4eb9e3fcd" />
+
+### Test with ping
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/46e6a92c-1fc1-4dbd-a6e6-d696a102ebfd" />
 
 
 
